@@ -2,7 +2,7 @@
 DirHound is a fast and efficient tool for discovering hidden directories and files.
 # DirHound - Advanced Directory Bruteforcing Tool
 
-![DirHound](https://github.com/Vatsal-Shashwat/DirHound/images/dirhound.webp)  
+![DirHound][images/dirhound.webp)  
 
 **DirHound** is a high-performance and efficient directory bruteforcing tool designed to uncover hidden directories and files in web applications. Built for speed and accuracy, DirHound is a must-have for penetration testers, bug bounty hunters, and security researchers.
 
