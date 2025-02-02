@@ -48,4 +48,4 @@ This tool is intended for educational and authorized security testing purposes o
 
 ---
 
-💻 Developed by [Vatsal Kashyap](https://github.com/Vatsal-Shashwat) | 🚀 Stay ethical, hack responsibly!
+💻 Developed by [Vatsal Shashwat](https://github.com/Vatsal-Shashwat) | 🚀 Stay ethical, hack responsibly!
